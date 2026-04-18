@@ -1,0 +1,5 @@
+await contract.addVerifier("0x85409b8f11bae3230cbff45d9f1ebbfc1d6a25a1")
+)
+  "0xfd2faDb2B1B4Ce8d3F9a6B937B2E1fE418589217"
+  "EKYC",
+const contract = await ethers.getContractAt(
